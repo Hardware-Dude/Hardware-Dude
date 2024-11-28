@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hardware-Dude
 - 👀 I’m interested in ECG, electronic hardware, microcontroller coding
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... interesting things :-)
 - 💞️ I’m looking to collaborate on Philips HPM measurements hardware / firmware / sw
 - 📫 How to reach me ... write me an E-Mail
 - 😄 Pronouns: ...
